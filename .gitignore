@@ -2,7 +2,7 @@
 coverage/*
 logs/*
 node_modules/*
-
+aem-up.log
 helix-importer-ui
 .DS_Store
 *.bak
